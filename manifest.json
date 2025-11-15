@@ -1,7 +1,7 @@
 {
-  "name": "Jailson Webradio",
-  "short_name": "Jailson Webradio",
-  "description": "Música sem Gospel sem parar!",
+  "name": "Radio Folkperu",
+  "short_name": "Radio Folkperu",
+  "description": "Mas Música Mas Folk!",
   "icons": [
     {
       "src": "assets/jailson_cover.png",
@@ -50,8 +50,8 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.jbcast.jwradio",
-      "id": "com.jbcast.jwradio"
+      "url": "https://play.google.com/store/apps/details?id=com.rfp.movil",
+      "id": "com.rfp.movil"
     }
   ]
 }
