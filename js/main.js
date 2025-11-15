@@ -491,7 +491,7 @@
             const $span = document.createElement("span");
             $div.classList.add("player-program-time-container");
             $span.classList.add("player-program-badge");
-            $span.textContent = "On Air";
+            $span.textContent = "EN VIVO";
             $div.appendChild($span);
             const $time = document.createElement("span");
             $time.classList.add("player-program-time");
